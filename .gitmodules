@@ -58,6 +58,11 @@
 	url = https://github.com/jimbrig/dedup
 	shallow = true
 	registered = true
+[submodule "chameleon"]
+	path = chameleon
+	url = https://github.com/ThinkR-open/chameleon
+	shallow = true
+	registered = false
 [submodule "sysreqs"]
 	path = sysreqs
 	url = https://github.com/r-hub/sysreqs

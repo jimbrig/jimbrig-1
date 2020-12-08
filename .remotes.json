@@ -1,5 +1,11 @@
 [
   {
+    "package": "chameleon",
+    "url": "https://github.com/ThinkR-open/chameleon",
+    "via": ["rtraining"],
+    "from": "rtraining"
+  },
+  {
     "package": "sysreqs",
     "url": "https://github.com/r-hub/sysreqs",
     "via": ["containerit"],
