@@ -58,3 +58,8 @@
 	url = https://github.com/jimbrig/dedup
 	shallow = true
 	registered = true
+[submodule "sysreqs"]
+	path = sysreqs
+	url = https://github.com/r-hub/sysreqs
+	shallow = true
+	registered = false

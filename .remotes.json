@@ -1,0 +1,8 @@
+[
+  {
+    "package": "sysreqs",
+    "url": "https://github.com/r-hub/sysreqs",
+    "via": ["containerit"],
+    "from": "containerit"
+  }
+]
