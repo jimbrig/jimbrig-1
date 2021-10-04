@@ -18,6 +18,11 @@
 	url = https://github.com/jimbrig/propalloc
 	shallow = true
 	registered = true
+[submodule "shiny.fluent"]
+	path = shiny.fluent
+	url = https://github.com/jimbrig/shiny.fluent
+	shallow = true
+	registered = true
 [submodule "restbatch"]
 	path = restbatch
 	url = https://github.com/jimbrig/restbatch
@@ -28,9 +33,19 @@
 	url = https://github.com/jimbrig/buildtools
 	shallow = true
 	registered = true
+[submodule "EDA"]
+	path = EDA
+	url = https://github.com/jimbrig/EDA
+	shallow = true
+	registered = true
 [submodule "jimstemplates"]
 	path = jimstemplates
 	url = https://github.com/jimbrig/jimstemplates
+	shallow = true
+	registered = true
+[submodule "containerit"]
+	path = containerit
+	url = https://github.com/jimbrig/containerit
 	shallow = true
 	registered = true
 [submodule "rtraining"]
