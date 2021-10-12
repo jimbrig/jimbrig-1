@@ -48,11 +48,6 @@
 	url = https://github.com/jimbrig/containerit
 	shallow = true
 	registered = true
-[submodule "rtraining"]
-	path = rtraining
-	url = https://github.com/jimbrig/rtraining
-	shallow = true
-	registered = true
 [submodule "dedup"]
 	path = dedup
 	url = https://github.com/jimbrig/dedup
