@@ -68,6 +68,16 @@
 	url = https://github.com/ThinkR-open/chameleon
 	shallow = true
 	registered = false
+[submodule "connections"]
+	path = connections
+	url = https://github.com/rstudio/connections
+	shallow = true
+	registered = false
+[submodule "flipTime"]
+	path = flipTime
+	url = https://github.com/Displayr/flipTime
+	shallow = true
+	registered = false
 [submodule "sysreqs"]
 	path = sysreqs
 	url = https://github.com/r-hub/sysreqs

@@ -6,6 +6,18 @@
     "from": "rtraining"
   },
   {
+    "package": "connections",
+    "url": "https://github.com/rstudio/connections",
+    "via": ["lossrx"],
+    "from": "lossrx"
+  },
+  {
+    "package": "flipTime",
+    "url": "https://github.com/Displayr/flipTime",
+    "via": ["lossrx"],
+    "from": "lossrx"
+  },
+  {
     "package": "sysreqs",
     "url": "https://github.com/r-hub/sysreqs",
     "via": ["containerit"],
