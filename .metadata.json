@@ -3,6 +3,12 @@
     "package": "jimstools"
   },
   {
+    "package": "lossrx"
+  },
+  {
+    "package": "templateeR"
+  },
+  {
     "package": "browsr"
   },
   {
@@ -20,9 +26,6 @@
   {
     "package": "EDA",
     "oncran": false
-  },
-  {
-    "package": "jimstemplates"
   },
   {
     "package": "containerit"

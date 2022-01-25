@@ -8,6 +8,16 @@
 	url = https://github.com/jimbrig/jimstools
 	shallow = true
 	registered = true
+[submodule "lossrx"]
+	path = lossrx
+	url = https://github.com/jimbrig/lossrx
+	shallow = true
+	registered = true
+[submodule "templateeR"]
+	path = templateeR
+	url = https://github.com/jimbrig/templateeR
+	shallow = true
+	registered = true
 [submodule "browsr"]
 	path = browsr
 	url = https://github.com/jimbrig/browsr
@@ -36,11 +46,6 @@
 [submodule "EDA"]
 	path = EDA
 	url = https://github.com/jimbrig/EDA
-	shallow = true
-	registered = true
-[submodule "jimstemplates"]
-	path = jimstemplates
-	url = https://github.com/jimbrig/jimstemplates
 	shallow = true
 	registered = true
 [submodule "containerit"]
