@@ -63,6 +63,11 @@
 	url = https://github.com/jimbrig/dedup
 	shallow = true
 	registered = true
+[submodule "attachment"]
+	path = attachment
+	url = https://github.com/thinkR-open/attachment
+	shallow = true
+	registered = false
 [submodule "chameleon"]
 	path = chameleon
 	url = https://github.com/ThinkR-open/chameleon

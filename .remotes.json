@@ -1,5 +1,11 @@
 [
   {
+    "package": "attachment",
+    "url": "https://github.com/thinkR-open/attachment",
+    "via": ["jimstools"],
+    "from": "jimstools"
+  },
+  {
     "package": "chameleon",
     "url": "https://github.com/ThinkR-open/chameleon",
     "via": ["rtraining"],
