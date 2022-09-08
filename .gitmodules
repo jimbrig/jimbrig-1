@@ -13,6 +13,16 @@
 	url = https://github.com/jimbrig/lossrx
 	shallow = true
 	registered = true
+[submodule "losdevtapp"]
+	path = losdevtapp
+	url = https://github.com/jimbrig/lossdevtapp
+	shallow = true
+	registered = true
+[submodule "configR"]
+	path = configR
+	url = https://github.com/jimbrig/configR
+	shallow = true
+	registered = true
 [submodule "templateeR"]
 	path = templateeR
 	url = https://github.com/jimbrig/templateeR
@@ -23,44 +33,14 @@
 	url = https://github.com/jimbrig/browsr
 	shallow = true
 	registered = true
-[submodule "propalloc"]
-	path = propalloc
-	url = https://github.com/jimbrig/propalloc
-	shallow = true
-	registered = true
-[submodule "shiny.fluent"]
-	path = shiny.fluent
-	url = https://github.com/jimbrig/shiny.fluent
-	shallow = true
-	registered = true
-[submodule "restbatch"]
-	path = restbatch
-	url = https://github.com/jimbrig/restbatch
-	shallow = true
-	registered = true
 [submodule "buildtools"]
 	path = buildtools
 	url = https://github.com/jimbrig/buildtools
 	shallow = true
 	registered = true
-[submodule "EDA"]
-	path = EDA
-	url = https://github.com/jimbrig/EDA
-	shallow = true
-	registered = true
-[submodule "containerit"]
-	path = containerit
-	url = https://github.com/jimbrig/containerit
-	shallow = true
-	registered = true
 [submodule "rtraining"]
 	path = rtraining
 	url = https://github.com/jimbrig/rtraining
-	shallow = true
-	registered = true
-[submodule "dedup"]
-	path = dedup
-	url = https://github.com/jimbrig/dedup
 	shallow = true
 	registered = true
 [submodule "attachment"]
