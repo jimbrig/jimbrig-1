@@ -63,8 +63,3 @@
 	url = https://github.com/Displayr/flipTime
 	shallow = true
 	registered = false
-[submodule "sysreqs"]
-	path = sysreqs
-	url = https://github.com/r-hub/sysreqs
-	shallow = true
-	registered = false
