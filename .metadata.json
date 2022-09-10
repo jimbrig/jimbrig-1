@@ -6,34 +6,21 @@
     "package": "lossrx"
   },
   {
+    "package": "losdevtapp"
+  },
+  {
+    "package": "configR"
+  },
+  {
     "package": "templateeR"
   },
   {
     "package": "browsr"
   },
   {
-    "package": "propalloc"
-  },
-  {
-    "package": "shiny.fluent"
-  },
-  {
-    "package": "restbatch"
-  },
-  {
     "package": "buildtools"
   },
   {
-    "package": "EDA",
-    "oncran": false
-  },
-  {
-    "package": "containerit"
-  },
-  {
     "package": "rtraining"
-  },
-  {
-    "package": "dedup"
   }
 ]

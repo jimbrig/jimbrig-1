@@ -22,11 +22,5 @@
     "url": "https://github.com/Displayr/flipTime",
     "via": ["lossrx"],
     "from": "lossrx"
-  },
-  {
-    "package": "sysreqs",
-    "url": "https://github.com/r-hub/sysreqs",
-    "via": ["containerit"],
-    "from": "containerit"
   }
 ]
