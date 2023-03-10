@@ -6,12 +6,6 @@
     "from": "jimstools"
   },
   {
-    "package": "chameleon",
-    "url": "https://github.com/ThinkR-open/chameleon",
-    "via": ["rtraining"],
-    "from": "rtraining"
-  },
-  {
     "package": "connections",
     "url": "https://github.com/rstudio/connections",
     "via": ["lossrx"],
@@ -22,5 +16,11 @@
     "url": "https://github.com/Displayr/flipTime",
     "via": ["lossrx"],
     "from": "lossrx"
+  },
+  {
+    "package": "papillon",
+    "url": "https://github.com/ThinkR-open/chameleon",
+    "via": ["rtraining"],
+    "from": "rtraining"
   }
 ]

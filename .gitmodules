@@ -48,11 +48,6 @@
 	url = https://github.com/thinkR-open/attachment
 	shallow = true
 	registered = false
-[submodule "chameleon"]
-	path = chameleon
-	url = https://github.com/ThinkR-open/chameleon
-	shallow = true
-	registered = false
 [submodule "connections"]
 	path = connections
 	url = https://github.com/rstudio/connections
@@ -61,5 +56,10 @@
 [submodule "flipTime"]
 	path = flipTime
 	url = https://github.com/Displayr/flipTime
+	shallow = true
+	registered = false
+[submodule "papillon"]
+	path = papillon
+	url = https://github.com/ThinkR-open/chameleon
 	shallow = true
 	registered = false
