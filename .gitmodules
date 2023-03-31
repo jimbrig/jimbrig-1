@@ -63,3 +63,8 @@
 	url = https://github.com/ThinkR-open/chameleon
 	shallow = true
 	registered = false
+[submodule "plotly"]
+	path = plotly
+	url = https://github.com/Displayr/plotly
+	shallow = true
+	registered = false
