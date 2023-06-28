@@ -1,70 +1,48 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/jimbrig/universe
-	shallow = true
 	branch = HEAD
 [submodule "jimstools"]
 	path = jimstools
 	url = https://github.com/jimbrig/jimstools
-	shallow = true
-	registered = true
 [submodule "lossrx"]
 	path = lossrx
 	url = https://github.com/jimbrig/lossrx
-	shallow = true
-	registered = true
 [submodule "losdevtapp"]
 	path = losdevtapp
 	url = https://github.com/jimbrig/lossdevtapp
-	shallow = true
-	registered = true
 [submodule "configR"]
 	path = configR
 	url = https://github.com/jimbrig/configR
-	shallow = true
-	registered = true
 [submodule "templateeR"]
 	path = templateeR
 	url = https://github.com/jimbrig/templateeR
-	shallow = true
-	registered = true
 [submodule "browsr"]
 	path = browsr
 	url = https://github.com/jimbrig/browsr
-	shallow = true
-	registered = true
 [submodule "buildtools"]
 	path = buildtools
 	url = https://github.com/jimbrig/buildtools
-	shallow = true
-	registered = true
 [submodule "rtraining"]
 	path = rtraining
 	url = https://github.com/jimbrig/rtraining
-	shallow = true
-	registered = true
 [submodule "attachment"]
 	path = attachment
 	url = https://github.com/thinkR-open/attachment
-	shallow = true
 	registered = false
 [submodule "connections"]
 	path = connections
 	url = https://github.com/rstudio/connections
-	shallow = true
 	registered = false
 [submodule "flipTime"]
 	path = flipTime
 	url = https://github.com/Displayr/flipTime
-	shallow = true
 	registered = false
 [submodule "papillon"]
 	path = papillon
 	url = https://github.com/ThinkR-open/chameleon
-	shallow = true
 	registered = false
 [submodule "plotly"]
 	path = plotly
 	url = https://github.com/Displayr/plotly
-	shallow = true
 	registered = false
